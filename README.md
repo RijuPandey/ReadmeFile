@@ -34,7 +34,7 @@
 <h3>- Public Relations - 2nd Year</h3>
 
 
-<h2>12. Pushp</h2>
+<h2>12. Pushp kumar</h2>
 <h3>- Technical Team - 2nd Year</h3>
 
 <h2>13. Komal Jha</h2>
